@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Credit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Credit_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Credit.jar">
+        <element id="module-output" name="Credit" />
+      </element>
+      <element id="library" level="project" name="sqljdbc41" />
+    </root>
+  </artifact>
+</component>
